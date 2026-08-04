@@ -1,0 +1,2 @@
+-keep class com.righttofitness.ai.** { *; }
+-dontwarn javax.annotation.**
